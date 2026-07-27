@@ -24,7 +24,7 @@ S.No	Components/Software	Specification
 
 **Circuit Diagram**
 
-(Insert the Proteus circuit diagram here.)
+<img width="1341" height="963" alt="image" src="https://github.com/user-attachments/assets/06dee450-05e2-43aa-b15d-0fa926955c0d" />
 
 **Theory**
 
@@ -112,7 +112,7 @@ Record the regulated output voltage and compare it with the expected value.
 
 **Output**
 
-(Insert the Proteus output diagram here.)
+<img width="808" height="840" alt="image" src="https://github.com/user-attachments/assets/3b8281d4-569e-4971-91cd-6efcd8d2a591" />
 
 **Result**
 
